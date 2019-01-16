@@ -15,4 +15,4 @@ grades.sort()
 
 for grade in grades:
     print '  %-3s %-10s %-10s' % (grade [0], grade[1], grade[2])
-    ;;
+  
